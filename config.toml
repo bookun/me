@@ -1,0 +1,26 @@
+baseurl = "https://bookun.github.io/"
+title = "About me"
+theme = "hugo-theme-nix"
+languageCode = "en-us"
+disqusShortname = "bookun"
+
+[menu]
+  [[menu.header]]
+    name = "post"
+    weight = 0
+    url = "/post"
+  [[menu.header]]
+    name = "about"
+    weight = 1
+    url = "/about"
+
+[params]
+  GithubID = "bookun"
+  MediumID = "bookun"
+  TwitterID = "bookun2851"
+  Name = "Ryo Kutsuzawa"
+  HeaderUsername = "bookun"
+  HeaderHostname = "Internet"
+  About = "Hi I'm Ryo Kutsuzawa and this is my website. I am a software engineer. I prefer Go language"
+  ProfilePicture = "https://avatars1.githubusercontent.com/u/10346162?s=460&v=4"
+  Favicon = "https://avatars1.githubusercontent.com/u/10346162?s=460&v=4"
