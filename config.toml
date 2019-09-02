@@ -3,6 +3,7 @@ title = "About me"
 theme = "hugo-theme-nix"
 languageCode = "en-us"
 disqusShortname = "bookun"
+publishDir = "docs"
 
 [menu]
   [[menu.header]]
